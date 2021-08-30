@@ -1,5 +1,5 @@
 # Budget Tracker with Login
-![Alt](https://raw.githubusercontent.com/aseemchopra25/external-files/main/xbudget.gif)
+![Alt](https://raw.githubusercontent.com/aseemchopra25/external-files/main/xbudget2.gif)
 > Responsive and Dynamic Web Application created using ReactJS, React-Hooks, FireBase Database, Beautiful Custom CSS and a Login Panel
 
 

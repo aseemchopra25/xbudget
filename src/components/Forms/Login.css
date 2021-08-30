@@ -27,9 +27,6 @@
     display: block;
     font-size: 15px;
     color: #3c4043;
-
-
-
 }
 
 .linkBtn{
@@ -41,4 +38,12 @@
     margin: 0;
     font-size: 15px;
 
+}
+.Error{
+    padding: 10px;
+    background-color: #feeaea;
+    border: 1px solid #fadadb;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    font-size: 15px;
 }

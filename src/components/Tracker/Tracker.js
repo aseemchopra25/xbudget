@@ -106,7 +106,7 @@ class Tracker extends Component{
                 <span>Hi, {currentUser.displayName}!</span>
                 <button className="exit" onClick={this.logout}>Exit</button>
             </div>
-            <div className="totalMoney">${this.state.money}</div>
+            <div className="totalMoney">₹{this.state.money}</div>
             <div className="newTransactionBlock">
                 <div className="newTransaction">
                     <form>

@@ -1,4 +1,4 @@
-# Budget Tracker with Login
+# Budget Tracker with Login Panel and Saved Data/Authentication using Google Firebase
 ![Alt](https://raw.githubusercontent.com/aseemchopra25/external-files/main/xbudget2.gif)
 > Responsive and Dynamic Web Application created using ReactJS, React-Hooks, FireBase Database, Beautiful Custom CSS and a Login Panel
 

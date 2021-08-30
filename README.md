@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Budget Tracker with Login
+> Responsive and Dynamic Web Application created using ReactJS, React-Hooks, FireBase Database, Beautiful Custom CSS and a Login Panel
+![Alt](https://raw.githubusercontent.com/aseemchopra25/external-files/main/xbudget.gif)
 
 ## Available Scripts
 

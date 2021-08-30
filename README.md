@@ -1,6 +1,7 @@
 # Budget Tracker with Login
-> Responsive and Dynamic Web Application created using ReactJS, React-Hooks, FireBase Database, Beautiful Custom CSS and a Login Panel
 ![Alt](https://raw.githubusercontent.com/aseemchopra25/external-files/main/xbudget.gif)
+> Responsive and Dynamic Web Application created using ReactJS, React-Hooks, FireBase Database, Beautiful Custom CSS and a Login Panel
+
 
 ## Available Scripts
 
